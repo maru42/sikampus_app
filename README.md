@@ -11,7 +11,7 @@ Aplikasi SIKAMPUS adalah aplikasi mobile untuk memudahkan mahasiswa dalam mengak
 ## Struktur Proyek
 
 SIKAMPUS/
-├── app/
+```├── app/
 │   ├── src/
 │   ├── res/
 │   ├── AndroidManifest.xml
@@ -20,7 +20,7 @@ SIKAMPUS/
 │   ├── images/
 │   └── fonts/
 README.md
-
+```
 
 ## Persyaratan
 
