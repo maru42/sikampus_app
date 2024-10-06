@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "786280645742",
+    "firebase_url": "https://sikampusapps-7421c-default-rtdb.firebaseio.com",
+    "project_id": "sikampusapps-7421c",
+    "storage_bucket": "sikampusapps-7421c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786280645742:android:44232b55260f9d777b127f",
+        "android_client_info": {
+          "package_name": "com.example.sikampus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY5g0ei_3NOtvfXQTFHLuYaKR-F46VJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

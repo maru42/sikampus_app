@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/dialog_background"
+    android:layout_gravity="center">
+
+    <ImageButton
+        android:id="@+id/dialog_close_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:src="@drawable/ic_close"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="@string/close_button"
+        android:padding="8dp"
+        android:layout_marginEnd="-8dp" />
+
+    <TextView
+        android:id="@+id/dialog_title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perancangan Basis Data"
+        android:fontFamily="@font/plusjakartabold"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/dialog_credits2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3 SKS"
+        android:fontFamily="@font/plusjakartasans"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/dialog_instructor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dosen: Dosen D S.KOM., M.Kom."
+        android:fontFamily="@font/plusjakartasans"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/dialog_schedule2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Waktu: 13.25 - 16.05 WIB"
+        android:fontFamily="@font/plusjakartasans"
+        android:textSize="16sp"
+        android:textColor="#333333"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/dialog_location2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ruangan: 4.3.3"
+        android:fontFamily="@font/plusjakartasans"
+        android:textSize="16sp"
+        android:textColor="#333333" />
+</LinearLayout>

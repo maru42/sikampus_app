@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sikampus_app</string>
+    <string name="alert_icon_description">Icon peringatan</string>
+    <string name="alert_title">Peringatan</string>
+    <string name="alert_message">Pemilihan KRS belum dimulai.</string>
+    <string name="close_button">Close</string>
+    <string name="alert_message2">Informasi Pembayaran Saat Ini Tidak Tersedia.</string>
+    <string name="alert_title2">Maaf</string>
+    <string name="alert_message3">Surat ini diperuntukan bagi mahasiswa yang telah lulus teori.</string>
+
+</resources>

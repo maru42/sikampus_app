@@ -1,0 +1,9 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Sikampus_app" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Warna status bar menjadi putih -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <!-- Menyediakan teks status bar gelap untuk visibilitas pada latar belakang terang -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

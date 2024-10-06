@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/dialog_background"
+    android:layout_gravity="center">
+
+    <!-- Icon -->
+    <ImageView
+        android:id="@+id/iv_alert_icon3"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/sorry_hand"
+        android:contentDescription="@string/alert_icon_description"/>
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tv_alert_title3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maaf"
+        android:textColor="#333333"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center_horizontal" />
+
+    <!-- Message -->
+    <TextView
+        android:id="@+id/tv_alert_message3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Surat ini diperuntukan bagi mahasiswa yang telah lulus teori."
+        android:textColor="#666666"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:layout_gravity="center_horizontal" />
+
+    <!-- Button OK -->
+    <Button
+        android:id="@+id/btn_alert_ok3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/background_card"
+        android:layout_marginTop="24dp"
+        android:foreground="?attr/selectableItemBackground"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
