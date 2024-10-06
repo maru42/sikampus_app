@@ -37,5 +37,5 @@ README.md
 
 ## Kredits
 
-Aplikasi ini mungkin menggunakan aset berbayar. Kredit khusus diberikan kepada pemilik
+Aplikasi ini mungkin menggunakan aset berbayar. Kredit khusus diberikan kepada pemilik.
 
